@@ -39,11 +39,6 @@
 #### @color[black](Stream doesn't terminate)
 ![Timeline events infinite](assets/img/timeline_events_infinite.png)
 
----?image=assets/img/reactive_sequence_diagram.png&size=auto 75%&color=#CCDAE7
-@snap[north span-100]
-#### @color[black](Data flow process)
-@snapend
-
 ---
 ### Stream processing
 ![Stream processing](assets/img/reactive_stream_processing.png)
@@ -51,6 +46,11 @@
 ---
 ### Stream processing
 ![Stream processing](assets/img/reactive_programming_context.png)
+
+---?image=assets/img/reactive_sequence_diagram.png&size=auto 75%&color=#CCDAE7
+@snap[north span-100]
+#### @color[black](Data flow process)
+@snapend
 
 ---
 ## Useful scenarios Front-End
