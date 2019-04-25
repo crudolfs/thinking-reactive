@@ -55,15 +55,15 @@
 ---
 ## Useful scenarios Front-End
 - Processing mouse movement and clicks
-- keyboard typing
+- Keyboard typing
+- Touch events
 - GPS signals over time
-- touch events
-- back-end data streams
+- Consume data streams from back-end
 
 ---
 ## Useful scenarios Back-End
 - Processing any latency-bound IO events from disk or network (IO is inherently asynchronous)
 - Handling system events from a server
 - Events triggered from sensors
-- Streaming data to front-ends (via WebSockets or Server Sent Events)
+- Pushing data to front-ends (via WebSockets or Server Sent Events)
 
