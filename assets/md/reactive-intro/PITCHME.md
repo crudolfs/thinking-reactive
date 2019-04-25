@@ -24,20 +24,20 @@
 ![Data Streams](assets/img/data_stream.png)
 
 ---?color=#FFFFFF
-## Timeline
+#### @color[black](Timeline)
 ![Timeline](assets/img/timeline.png)
 
 ---?color=#FFFFFF
-## Emit events succeed
+#### @color[black](Stream completes successfully)
 ![Timeline events succeed](assets/img/timeline_events_success.png)
 
 ---?color=#FFFFFF
-## Emit events error
+#### @color[black](Stream completes with an error)
 ![Timeline events error](assets/img/timeline_events_error.png)
 
----
-## Emit events infinite
-![Timeline events infinite](assets/img/timeline_events_infinite_white.png)
+---?color=#FFFFFF
+#### @color[black](Stream doesn't terminate)
+![Timeline events infinite](assets/img/timeline_events_infinite.png)
 
 ---
 ### Stream processing
