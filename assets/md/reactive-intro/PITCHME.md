@@ -44,15 +44,6 @@
 #### @color[black](Data flow process)
 @snapend
 
----?color=#CCDAE7
-
-#### @color[black](Data flow process)
-
-@div[left-75]
-<br><br>
-![MONKEY](assets/img/reactive_sequence_diagram.png)
-@divend
-
 ---
 ### Stream processing
 ![Stream processing](assets/img/reactive_stream_processing.png)
