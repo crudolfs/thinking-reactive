@@ -23,17 +23,17 @@
 - a sequence of data events over time
 ![Data Streams](assets/img/data_stream.png)
 
----
+---?color=#FFFFFF
 ## Timeline
-![Timeline](assets/img/timeline_white.png)
+![Timeline](assets/img/timeline.png)
 
----
+---?color=#FFFFFF
 ## Emit events succeed
-![Timeline events succeed](assets/img/timeline_events_success_white.png)
+![Timeline events succeed](assets/img/timeline_events_success.png)
 
----
+---?color=#FFFFFF
 ## Emit events error
-![Timeline events error](assets/img/timeline_events_error_white.png)
+![Timeline events error](assets/img/timeline_events_error.png)
 
 ---
 ## Emit events infinite
@@ -57,8 +57,7 @@
 ---
 ## Useful scenarios Back-End
 - Processing any latency-bound IO events from disk or network (IO is inherently asynchronous)
-  - REST APIs
-  - Databases
 - Handling system events from a server
 - Events triggered from sensors
+- Streaming data to front-ends (WebSockets or Server Sent Events)
 

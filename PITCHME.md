@@ -23,4 +23,4 @@ by Christiaan Rudolfs & Sander Rombouts
 
 ---?include=assets/md/reactive-streams/PITCHME.md
 
----?include=template/md/reactive-systems/PITCHME.md
+---?include=assets/md/reactive-systems/PITCHME.md
