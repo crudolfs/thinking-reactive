@@ -39,9 +39,8 @@
 #### @color[black](Stream doesn't terminate)
 ![Timeline events infinite](assets/img/timeline_events_infinite.png)
 
----?color=#FFFFFF
+---?image=assets/img/reactive_sequence_diagram.png&size=auto 50%&position=bottom&color=#CCDAE7
 #### @color[black](Data flow process)
-![Timeline events infinite](assets/img/reactive_sequence_diagram.png)
 
 ---
 ### Stream processing
