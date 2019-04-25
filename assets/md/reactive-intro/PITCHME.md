@@ -25,19 +25,19 @@
 
 ---
 ## Timeline
-![Timeline](assets/img/timeline.png)
+![Timeline](assets/img/timeline_white.png)
 
 ---
 ## Emit events succeed
-![Timeline events succeed](assets/img/timeline_events_success.png)
+![Timeline events succeed](assets/img/timeline_events_success_white.png)
 
 ---
 ## Emit events error
-![Timeline events error](assets/img/timeline_events_error.png)
+![Timeline events error](assets/img/timeline_events_error_white.png)
 
 ---
 ## Emit events infinite
-![Timeline events infinite](assets/img/timeline_events_infinite.png)
+![Timeline events infinite](assets/img/timeline_events_infinite_white.png)
 
 ---
 ### Stream processing
