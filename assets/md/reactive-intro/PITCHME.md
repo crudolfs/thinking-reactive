@@ -39,6 +39,10 @@
 #### @color[black](Stream doesn't terminate)
 ![Timeline events infinite](assets/img/timeline_events_infinite.png)
 
+---?color=#FFFFFF
+#### @color[black](Data flow process)
+![Timeline events infinite](assets/img/reactive_sequence_diagram.png)
+
 ---
 ### Stream processing
 ![Stream processing](assets/img/reactive_stream_processing.png)
@@ -53,11 +57,12 @@
 - keyboard typing
 - GPS signals over time
 - touch events
+- back-end data streams
 
 ---
 ## Useful scenarios Back-End
 - Processing any latency-bound IO events from disk or network (IO is inherently asynchronous)
 - Handling system events from a server
 - Events triggered from sensors
-- Streaming data to front-ends (WebSockets or Server Sent Events)
+- Streaming data to front-ends (via WebSockets or Server Sent Events)
 
