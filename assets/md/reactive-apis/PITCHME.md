@@ -48,6 +48,6 @@
 @[6](Subscribe)
 
 ---
-## RX Operators
+### RX Operators
 - [Marble diagrams](https://rxmarbles.com)
 ![Marble diagrams](assets/img/flatmap_marblediagram.png)
