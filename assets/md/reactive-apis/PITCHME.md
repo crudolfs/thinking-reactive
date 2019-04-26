@@ -30,7 +30,7 @@
 @[10](Subscribe)
 
 ---?code=assets/src/ReactorSample01.java&lang=java&title=Reactor Example
-@snap[north-west span-80]
+@snap[north span-100]
 ### Project Reactor Example
 @snapend
 
