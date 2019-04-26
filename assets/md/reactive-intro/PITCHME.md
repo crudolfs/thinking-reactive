@@ -13,7 +13,7 @@
 @quote[Reactive Programming = Functional Programming++](Venkat Subramaniam)
 @snapend
 
----?image=assets/img/event_driven_snake.png&size=auto&color=#FFFFFF
+---?image=assets/img/event_driven_snake.png&size=auto&position=bottom&color=#FFFFFF
 @snap[north span-100]
 ## @color[black](Event-Driven)
 - reacting to change
