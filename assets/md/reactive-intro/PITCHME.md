@@ -51,6 +51,10 @@
 ![Observer Pattern](assets/img/observer_pattern.jpeg)
 
 ---?color=#FFFFFF
+#### @color[black](Observer Design Pattern)
+![Observer Pattern](assets/img/Observer_Design_Pattern.jpg)
+
+---?color=#FFFFFF
 #### @color[black](Publisher / Subscriber interaction)
 ![Stream processing](assets/img/reactive-pubsub-flow.png)
 
