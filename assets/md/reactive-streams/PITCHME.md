@@ -1,7 +1,10 @@
 ---
-## Reactive Programming With Java
-- Project Reactor
-- RxJava2
+## Reactive Programming In Java
+
+---
+## Reactive Streams Implementations
+- RxJava, Project Reactor, Akka
+![Reactive Streams implementations](assets/img/reactive_logos.png)
 
 ---
 ## Technology Stacks
