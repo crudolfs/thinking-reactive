@@ -18,7 +18,7 @@
 ### @color[black](Event-Driven)
 @snapend
 
-@snap[west span-40]
+@snap[west span-20]
 @color[black](reacting to change)
 @snapend
 
