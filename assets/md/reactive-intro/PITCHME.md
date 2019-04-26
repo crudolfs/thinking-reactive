@@ -39,13 +39,20 @@
 #### @color[black](Stream doesn't terminate)
 ![Timeline events infinite](assets/img/timeline_events_infinite.png)
 
----
-### Stream processing
+---?color=#FFFFFF
+#### @color[black](Stream processing)
 ![Stream processing](assets/img/reactive_stream_processing.png)
 
----
-### Stream processing
+---?color=#FFFFFF
+#### @color[black](Stream processing)
 ![Stream processing](assets/img/reactive_programming_context.png)
+
+---?color=#FFFFFF
+![Observer Pattern](assets/img/observer_pattern.jpeg)
+
+---?color=#FFFFFF
+#### @color[black](Publisher & Subscriber interaction)
+![Stream processing](assets/img/reactive-pubsub-flow.png)
 
 ---?image=assets/img/reactive_sequence_diagram.png&size=auto 75%&color=#CCDAE7
 @snap[north span-100]

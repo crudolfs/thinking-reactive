@@ -1,17 +1,9 @@
----?code=assets/src/RxJavaSample01.java&lang=java&title=RxJava2 Example
-
-@[1-3](Create publisher)
-@[5-7](Apply operators)
-@[8](Subscribe)
-
----?code=assets/src/ReactorSample01.java&lang=java&title=Reactor Example
-
-@[1-3](Create publisher)
-@[5-7](Apply operators)
-@[8](Subscribe)
+---
+## Technology Stacks
+![Spring Boot 2.0](assets/img/spring_boot_2.0_reactor.png)
 
 ---
-## RX Operators
-- Marble diagrams
-![Marble diagrams](assets/img/flatmap_marblediagram.png)
+## Technology Stacks
+![Vert.x logo](assets/img/vertx_logo.png)
+![Vert.x scale](assets/img/vertx_reactive.png)
 

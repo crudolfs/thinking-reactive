@@ -21,6 +21,9 @@ by Christiaan Rudolfs & Sander Rombouts
 
 ---?include=assets/md/reactive-apis/PITCHME.md
 
+---
+## Break: 15 minutes
+
 ---?include=assets/md/reactive-streams/PITCHME.md
 
 ---?include=assets/md/reactive-systems/PITCHME.md

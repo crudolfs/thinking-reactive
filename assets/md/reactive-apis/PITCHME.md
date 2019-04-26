@@ -26,11 +26,25 @@
 - RxJava, Project Reactor, Akka
 ![Reactive Streams implementations](assets/img/reactive_logos.png)
 
----
-## Technology Stacks
-![Spring Boot 2.0](assets/img/spring_boot_2.0_reactor.png)
+---?code=assets/src/RxJavaSample01.java&lang=java&title=RxJava2 Example
+
+@[3-5](Create publisher)
+@[7-9](Apply operators)
+@[10](Subscribe)
+
+---?code=assets/src/ReactorSample01.java&lang=java&title=Reactor Example
+
+@[3-5](Create publisher)
+@[7-9](Apply operators)
+@[10](Subscribe)
+
+---?code=assets/src/RxJsSample01.js&lang=javascript&title=RxJs Example
+
+@[3-4](Create Observable)
+@[5](Apply operators)
+@[6](Subscribe)
 
 ---
-## Technology Stacks
-![Vert.x logo](assets/img/vertx_logo.png)
-![Vert.x scale](assets/img/vertx_reactive.png)
+## RX Operators
+- [Marble diagrams](https://rxmarbles.com)
+![Marble diagrams](assets/img/flatmap_marblediagram.png)

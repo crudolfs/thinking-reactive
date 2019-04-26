@@ -1,3 +1,5 @@
+import io.reactivex.Flowable;
+
 // create Publisher
 Flowable<String> words = Flowable.just("Java", "Kotlin", 
 									   "C#", "JavaScript");
