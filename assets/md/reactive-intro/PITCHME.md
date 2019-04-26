@@ -41,7 +41,7 @@
 
 ---?color=#FFFFFF
 #### @color[black](Stream processing)
-![Stream processing](assets/img/reactive_stream_processing.png)
+![Stream processing](assets/img/reactive_stream_processing_03.png)
 
 ---?color=#FFFFFF
 #### @color[black](Stream processing)
