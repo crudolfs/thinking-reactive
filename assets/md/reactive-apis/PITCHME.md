@@ -22,7 +22,7 @@
 
 ---?code=assets/src/RxJavaSample01.java&lang=java&title=RxJava2 Example
 @snap[north span-100]
-#### RxJava2 Example
+### RxJava2 Example
 @snapend
 
 @[3-5](Create publisher)
@@ -30,8 +30,8 @@
 @[10](Subscribe)
 
 ---?code=assets/src/ReactorSample01.java&lang=java&title=Reactor Example
-@snap[north span-100]
-#### Project Reactor Example
+@snap[north-west span-80]
+### Project Reactor Example
 @snapend
 
 @[3-5](Create publisher)
@@ -40,7 +40,7 @@
 
 ---?code=assets/src/RxJsSample01.js&lang=javascript&title=RxJs Example
 @snap[north span-100]
-#### RxJS Example
+### RxJS Example
 @snapend
 
 @[3-4](Create Observable)
