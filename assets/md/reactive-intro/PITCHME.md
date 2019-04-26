@@ -15,12 +15,15 @@
 
 ---?image=assets/img/event_driven_snake.png&size=auto 75%&position=bottom&color=#FFFFFF
 @snap[north span-100]
-## @color[black](Event-Driven)
-- reacting to change
+### @color[black](Event-Driven)
+@snapend
+
+@snap[east span-40]
+@color[black](reacting to change)
 @snapend
 
 ---?color=#FFFFFF
-## @color[black](Data Streams)
+### @color[black](Data Streams)
 - a sequence of data events over time
 ![Data Streams](assets/img/data_stream.png)
 
@@ -43,10 +46,6 @@
 ---?color=#FFFFFF
 #### @color[black](Stream processing)
 ![Stream processing](assets/img/reactive_stream_processing_03.png)
-
----?color=#FFFFFF
-#### @color[black](Stream processing)
-![Stream processing](assets/img/reactive_programming_context.png)
 
 ---?color=#FFFFFF
 ![Observer Pattern](assets/img/observer_pattern.jpeg)
