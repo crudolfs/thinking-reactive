@@ -13,10 +13,11 @@
 @quote[Reactive Programming = Functional Programming++](Venkat Subramaniam)
 @snapend
 
----
-## Event-driven
+---?image=assets/img/event_driven_snake.png&size=auto&color=#FFFFFF
+@snap[north span-100]
+## @color[black](Event-Driven)
 - reacting to change
-![Event-driven](assets/img/event_driven_snake.png)
+@snapend
 
 ---
 ## Data Streams
@@ -51,7 +52,7 @@
 ![Observer Pattern](assets/img/observer_pattern.jpeg)
 
 ---?color=#FFFFFF
-#### @color[black](Publisher & Subscriber interaction)
+#### @color[black](Publisher / Subscriber interaction)
 ![Stream processing](assets/img/reactive-pubsub-flow.png)
 
 ---?image=assets/img/reactive_sequence_diagram.png&size=auto 75%&color=#CCDAE7
