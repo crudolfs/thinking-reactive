@@ -19,8 +19,8 @@
 - reacting to change
 @snapend
 
----
-## Data Streams
+---?color=#FFFFFF
+## @color[black](Data Streams)
 - a sequence of data events over time
 ![Data Streams](assets/img/data_stream.png)
 
