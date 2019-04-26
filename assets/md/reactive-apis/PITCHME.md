@@ -18,10 +18,12 @@
 ![Reactive Streams implementations](assets/img/reactive_logos.png)
 
 ---
-### Show me some code!
+## Show me some code!
 
 ---?code=assets/src/RxJavaSample01.java&lang=java&title=RxJava2 Example
-#### RxJava2 Example
+@snap[north span-100]
+## RxJava2 Example
+@snapend
 
 @[3-5](Create publisher)
 @[7-9](Apply operators)
