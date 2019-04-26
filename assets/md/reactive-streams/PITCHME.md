@@ -15,3 +15,12 @@
 ![Vert.x logo](assets/img/vertx_logo.png)
 ![Vert.x scale](assets/img/vertx_reactive.png)
 
+---
+## Asynchronous
+- the processing of an event is happening at some arbitrary time, possibly in the future
+![Asynchrony](assets/img/asyncrony.png)
+
+---
+## Non-blocking IO
+![Non-Blocking](assets/img/nonblocking_io.png)
+
