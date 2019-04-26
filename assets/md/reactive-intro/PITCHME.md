@@ -48,11 +48,12 @@
 ![Stream processing](assets/img/reactive_stream_processing_03.png)
 
 ---?color=#FFFFFF
-![Observer Pattern](assets/img/observer_pattern.jpeg)
+#### @color[black](Observer Design Pattern)
+![Observer Pattern](assets/img/observer_pattern_01.png)
 
 ---?color=#FFFFFF
 #### @color[black](Observer Design Pattern)
-![Observer Pattern](assets/img/Observer_Design_Pattern.jpg)
+![Observer Pattern](assets/img/observer_pattern_02.jpg)
 
 ---?color=#FFFFFF
 #### @color[black](Publisher / Subscriber interaction)
