@@ -5,15 +5,6 @@
 
 ---
 @snap[north span-100]
-## ReactiveX
-@snapend
-
-@snap[midpoint span-70]
-@box[bg-purple text-white demo-box-text-padding rounded](An API for *asynchronous* programming with *observable streams*.)
-@snapend
-
----
-@snap[north span-100]
 ## Reactive Streams API
 @snapend
 
@@ -26,7 +17,11 @@
 - RxJava, Project Reactor, Akka
 ![Reactive Streams implementations](assets/img/reactive_logos.png)
 
+---
+### Show me some code!
+
 ---?code=assets/src/RxJavaSample01.java&lang=java&title=RxJava2 Example
+#### RxJava2 Example
 
 @[3-5](Create publisher)
 @[7-9](Apply operators)
