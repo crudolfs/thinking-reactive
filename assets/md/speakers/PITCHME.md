@@ -30,7 +30,7 @@ Christiaan Rudolfs
 @snapend
 
 @snap[west]
-@img[split-screen-img span-65](assets/img/speaker_sander.jpeg)
+@img[split-screen-img span-25](assets/img/speaker_sander.jpeg)
 @snapend
 
 @snap[south-west text-white]
