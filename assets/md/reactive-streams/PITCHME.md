@@ -26,6 +26,10 @@
 @snapend
 
 ---
+---?code=assets/src/RxJavaSample04.java&lang=java&title=RxJava2 Example
+@[3-6](Uses subscriber's thread)
+
+---
 ## Non-blocking IO
 ![Non-Blocking](assets/img/nonblocking_io.png)
 
