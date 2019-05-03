@@ -30,17 +30,6 @@
 ![Asynchrony](assets/img/asyncrony.png)
 
 ---
-## Concurrency can originate from
-- threadpools
-- event loops
-- actors
-- etc.
-
----
-## Non-blocking IO
-![Non-Blocking](assets/img/nonblocking_io.png)
-
----
 ## Async vs Sync
 - Producer is by default synchronous, emitting the data on the subscriber's thread
 
@@ -48,7 +37,7 @@
 @[3-7](Uses subscriber's thread)
 
 ---
-## When to use synchronous
+## Why synchronous
 - In-memory data
 - Synchronous computation (stream composition)
 
@@ -59,6 +48,23 @@
 ---?code=assets/src/RxJavaSample05.java&lang=java&title=RxJava2 Example
 @[3-9](Uses subscriber's thread)
 @[11-13](map operator is synchronous for performance reasons)
+
+---
+@snap[north span-100]
+## Blocking vs Non-blocking
+@snapend
+
+@snap[midpoint span-80]
+@box[bg-purple text-white demo-box-text-padding rounded](The actual criteria that is generally important is whether the Producer *event production* is ***blocking*** or ***non-blocking***.)
+@snapend
+
+---
+## Non-blocking IO
+![Non-Blocking](assets/img/nonblocking_io.png)
+
+---
+## Async vs Sync
+- Producer event production can be made asynchronous via onSubscribe, observeOn or it can orginate from threadpools, event loops, actors, etc.
 
 ---
 ## Concurrency and Parallelism
