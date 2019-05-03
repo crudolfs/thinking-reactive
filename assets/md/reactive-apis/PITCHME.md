@@ -65,6 +65,16 @@
 @[5](Apply operators)
 @[6](Subscribe)
 
+---?code=assets/src/RxJavaSample03.java&lang=java&title=RxJava2 Example
+@snap[north span-100]
+### RxJava2 Example
+@snapend
+
+@[3-5](Create stream of even integers)
+@[7-9](Create stream of odd integers)
+@[11-12](Merge both streams)
+@[13-15](Subscribe)
+
 ---
 ### RX Operators
 - [Marble diagrams](https://rxmarbles.com)

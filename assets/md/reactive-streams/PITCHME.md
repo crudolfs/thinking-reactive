@@ -21,6 +21,11 @@
 ![Asynchrony](assets/img/asyncrony.png)
 
 ---
+@snap[midpoint span-80]
+@box[bg-purple text-white demo-box-text-padding rounded](RxJava and Reactor are **agnostic** with respect to where the *asynchrony* originates.)
+@snapend
+
+---
 ## Non-blocking IO
 ![Non-Blocking](assets/img/nonblocking_io.png)
 
