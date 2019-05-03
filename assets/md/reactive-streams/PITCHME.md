@@ -25,7 +25,6 @@
 @box[bg-purple text-white demo-box-text-padding rounded](RxJava and Reactor are **agnostic** with respect to where the *asynchrony* originates.)
 @snapend
 
----
 ---?code=assets/src/RxJavaSample04.java&lang=java&title=RxJava2 Example
 @[3-6](Uses subscriber's thread)
 
