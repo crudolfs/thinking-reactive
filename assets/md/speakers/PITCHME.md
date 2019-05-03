@@ -21,7 +21,7 @@ Christiaan Rudolfs
 ---?image=assets/img/bg/black.jpg&position=right&size=50% 100%
 @title[Sander Rombouts]
 
-@snap[east text-white span-45]
+@snap[east text-white span-55]
 @ul[split-screen-list text-08](false)
 - Front-end Developer
 - 12+ years of experience in front-end development
