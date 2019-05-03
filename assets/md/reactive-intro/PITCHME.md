@@ -57,7 +57,6 @@
 
 ---?color=#FFFFFF
 #### @color[black](Publisher / Subscriber interaction)
-- onNext* (onCompleted | onError)?
 ![Stream processing](assets/img/reactive-pubsub-flow.png)
 
 ---?image=assets/img/reactive_sequence_diagram.png&size=auto 75%&color=#CCDAE7
