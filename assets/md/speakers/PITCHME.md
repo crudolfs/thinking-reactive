@@ -11,7 +11,7 @@
 @snapend
 
 @snap[west]
-@img[split-screen-img span-55](assets/img/speaker_chris.png)
+@img[split-screen-img span-45](assets/img/speaker_chris.png)
 @snapend
 
 @snap[south-west text-white]
