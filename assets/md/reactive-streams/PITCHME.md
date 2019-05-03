@@ -29,6 +29,15 @@
 @[3-6](Uses subscriber's thread)
 
 ---
+## When to use synchronous behaviour
+- In-memory data
+- Synchronous computation (stream composition)
+
+---
+## Synchronous computation
+- TODO example
+
+---
 ## Non-blocking IO
 ![Non-Blocking](assets/img/nonblocking_io.png)
 
