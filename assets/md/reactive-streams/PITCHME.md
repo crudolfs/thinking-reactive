@@ -7,22 +7,13 @@
 ![Reactive Streams implementations](assets/img/reactive_logos.png)
 
 ---
-## Technology Stacks
+## Software Stacks
 ![Spring Boot 2.0](assets/img/spring_boot_2.0_reactor.png)
 
 ---
-## Technology Stacks
+## Software Stacks
 ![Vert.x logo](assets/img/vertx_logo.png)
 ![Vert.x scale](assets/img/vertx_reactive.png)
-
----
-@snap[north span-100]
-## Async vs Sync
-@snapend
-
-@snap[midpoint span-80]
-@box[bg-purple text-white demo-box-text-padding rounded](RxJava and Reactor are purposefully **agnostic** with respect to where the *asynchrony* originates.)
-@snapend
 
 ---
 ## Asynchronous
@@ -63,13 +54,18 @@
 ![Non-Blocking](assets/img/nonblocking_io.png)
 
 ---
+@snap[north span-100]
 ## Async vs Sync
-- Producer event production can be made asynchronous via onSubscribe, observeOn or it can orginate from threadpools, event loops, actors, etc.
+@snapend
+
+@snap[midpoint span-80]
+@box[bg-purple text-white demo-box-text-padding rounded](RxJava and Reactor are purposefully **agnostic** with respect to where the *asynchrony* originates.)
+@snapend
 
 ---
-## Concurrency and Parallelism
-- Concurrency is the composition or interleaving of multiple tasks
-- Parallelism is the simultaneous execution of tasks
+## Async vs Sync
+- In production code the Producers (event production) usually originates from asynchronous sources like threadpools, event loops, actors etc.
+- Therefore the use of subscribeOn and observeOn should not be seen commonly.
 
 ---
 @snap[north span-100]
@@ -88,6 +84,11 @@
 
 ---?code=assets/src/RxJavaSample06.java&lang=java&title=RxJava2 Example
 ### DON'T DO THIS
+
+---
+## Concurrency and Parallelism
+- Concurrency is the composition or interleaving of multiple tasks
+- Parallelism is the simultaneous execution of tasks
 
 ---
 ## Apply concurrency

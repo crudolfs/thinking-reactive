@@ -24,7 +24,7 @@
 
 ---?color=#FFFFFF
 ### @color[black](Data Streams)
-@color[black](<a sequence (stream) of data events over time>)
+@color[black](a sequence/stream of data events over time>)
 ![Data Streams](assets/img/data_stream.png)
 
 ---?color=#FFFFFF
