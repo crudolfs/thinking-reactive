@@ -108,3 +108,7 @@
 
 ---?code=assets/src/RxJavaSample08.java&lang=java&title=RxJava2 Example
 
+---
+## Operators
+- An operator is a function that takes upstream Observable<T> and returns downstream Observable<R>
+- [Marble diagrams](https://rxmarbles.com)

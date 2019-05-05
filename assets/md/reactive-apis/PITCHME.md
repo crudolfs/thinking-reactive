@@ -79,3 +79,11 @@
 ### RX Operators
 - [Marble diagrams](https://rxmarbles.com)
 ![Marble diagrams](assets/img/flatmap_marblediagram.png)
+
+---?code=assets/src/RxJavaSample03b.java&lang=java&title=RxJava2 Example
+@snap[north span-100]
+### RxJava2 Example
+@snapend
+
+@[1-5](Operators example)
+
