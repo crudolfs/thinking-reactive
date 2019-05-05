@@ -30,4 +30,5 @@ by Christiaan Rudolfs & Sander Rombouts
 
 ---
 # Workshop
-- TODO: add GIT url
+- Clone github repo: [reactive-samples](https://github.com/crudolfs/reactive-samples)
+- Go to the [workshop](https://github.com/crudolfs/reactive-samples/blob/master/src/main/java/com/rudolfs/reactive/workshop/workshop.md)
