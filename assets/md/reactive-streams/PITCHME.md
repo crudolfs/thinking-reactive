@@ -105,7 +105,7 @@
 ---
 ## Laziness means
 - Subscription, not construction starts work
-- Producers (Observables) can be reused
+- Producers (Observables) can be reused (except Hot producers)
 
 ---?code=assets/src/RxJavaSample08.java&lang=java&title=RxJava2 Example
 
