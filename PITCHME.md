@@ -28,5 +28,6 @@ by Christiaan Rudolfs & Sander Rombouts
 
 ---?include=assets/md/reactive-systems/PITCHME.md
 
+---
 ## Workshop
 - TODO: add GIT url
