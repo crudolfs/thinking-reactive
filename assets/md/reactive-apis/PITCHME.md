@@ -72,7 +72,7 @@
 
 ---?code=assets/src/RxJavaSample03.java&lang=java&title=Multiple streams
 @snap[north span-100]
-### RxJava2 Example
+### Multiple streams
 @snapend
 
 @[3-5](Create stream of even integers)
