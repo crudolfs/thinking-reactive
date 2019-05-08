@@ -13,6 +13,11 @@
 @quote[Reactive Programming = Functional Programming++](Venkat Subramaniam)
 @snapend
 
+---?color=#FFFFFF
+### @color[black](Data Streams)
+@color[black](a sequence/stream of data events over time)
+![Data Streams](assets/img/data_stream.png)
+
 ---?image=assets/img/event_driven_snake.png&size=auto 50%&color=#FFFFFF
 @snap[north span-100]
 ### @color[black](Event-Driven)
@@ -21,11 +26,6 @@
 @snap[west span-20]
 @color[black](reacting to change)
 @snapend
-
----?color=#FFFFFF
-### @color[black](Data Streams)
-@color[black](a sequence/stream of data events over time)
-![Data Streams](assets/img/data_stream.png)
 
 ---?color=#FFFFFF
 #### @color[black](Timeline)
@@ -78,4 +78,3 @@
 - Handling system events from a server
 - Events triggered from sensors
 - Pushing data to front-ends (via WebSockets or Server Sent Events)
-

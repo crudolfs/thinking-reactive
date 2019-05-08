@@ -34,11 +34,20 @@
 
 ---
 ## Synchronous computation
-- Most operators (map(), filter(), flatMap(), groupBy()) are synchronous
+- Most operators (map(), filter(), groupBy()) are synchronous
 
 ---?code=assets/src/RxJavaSample05.java&lang=java&title=RxJava2 Example
 @[3-9](Uses subscriber's thread)
 @[11-13](map operator is synchronous for performance reasons)
+
+---
+@snap[north span-100]
+## Async vs Sync
+@snapend
+
+@snap[midpoint span-80]
+@box[bg-purple text-white demo-box-text-padding rounded](RxJava and Reactor are purposefully **agnostic** with respect to where the *asynchrony* originates.)
+@snapend
 
 ---
 @snap[north span-100]
@@ -52,15 +61,6 @@
 ---
 ## Non-blocking IO
 ![Non-Blocking](assets/img/nonblocking_io.png)
-
----
-@snap[north span-100]
-## Async vs Sync
-@snapend
-
-@snap[midpoint span-80]
-@box[bg-purple text-white demo-box-text-padding rounded](RxJava and Reactor are purposefully **agnostic** with respect to where the *asynchrony* originates.)
-@snapend
 
 ---
 ## Async vs Sync
@@ -112,4 +112,9 @@
 ---
 ## Operators
 - An operator is a function that takes upstream Observable<T> and returns downstream Observable<R>
+
+---
+### RX Operators
 - [Marble diagrams](https://rxmarbles.com)
+![Marble diagrams](assets/img/flatmap_marblediagram.png)
+
