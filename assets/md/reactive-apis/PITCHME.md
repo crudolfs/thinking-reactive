@@ -80,9 +80,9 @@
 @[11-12](Merge both streams)
 @[13-15](Subscribe)
 
----?code=assets/src/RxJavaSample03b.java&lang=java&title=RxJava2 Example
+---?code=assets/src/RxJavaSample03b.java&lang=java&title=Operators
 @snap[north span-100]
-### RxJava2 Example
+### Output?
 @snapend
 
 @[1-5](Operators example)
