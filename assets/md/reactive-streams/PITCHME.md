@@ -16,11 +16,6 @@
 ![Vert.x scale](assets/img/vertx_reactive.png)
 
 ---
-## Asynchronous
-- the processing of an event is happening at some arbitrary time, possibly in the future
-![Asynchrony](assets/img/asyncrony.png)
-
----
 ## Async vs Sync
 - Producer is by default synchronous, emitting the data on the subscriber's thread
 

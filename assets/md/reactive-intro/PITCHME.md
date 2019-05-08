@@ -28,6 +28,16 @@
 @snapend
 
 ---?color=#FFFFFF
+### @color[black](Asynchronous)
+@color[black](the processing of an event is happening at some arbitrary time, possibly in the future)
+![Asynchronous](assets/img/asyncrony.png)
+
+---
+## Asynchronous
+- the processing of an event is happening at some arbitrary time, possibly in the future
+![Asynchrony](assets/img/asyncrony.png)
+
+---?color=#FFFFFF
 #### @color[black](Timeline)
 ![Timeline](assets/img/timeline.png)
 
