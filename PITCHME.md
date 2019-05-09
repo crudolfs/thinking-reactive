@@ -30,5 +30,5 @@ by Christiaan Rudolfs & Sander Rombouts
 
 ---
 # Workshop
-- Clone the github repo to go to the [workshop](https://github.com/crudolfs/reactive-workshop)
+- Clone the github repo and go to the [workshop](https://github.com/crudolfs/reactive-workshop)
 
