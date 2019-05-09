@@ -71,14 +71,14 @@
 @box[bg-purple text-white demo-box-text-padding rounded](A single (Observable) stream must always be serialized and thread-safe.)
 @snapend
 
+---?code=assets/src/RxJavaSample06.java&lang=java&title=RxJava2 Example
+### DON'T DO THIS
+
 ---
 ## Producer contract reasons
 - Observer doesn't need to code defensively for concurrent invocation
 - Non-associative and non-commutative streams
 - performance (synchronization overhead)
-
----?code=assets/src/RxJavaSample06.java&lang=java&title=RxJava2 Example
-### DON'T DO THIS
 
 ---
 ## Concurrency and Parallelism

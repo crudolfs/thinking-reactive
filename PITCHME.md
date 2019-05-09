@@ -7,8 +7,6 @@ Thinking Reactive
 by Christiaan Rudolfs & Sander Rombouts
 @snapend
 
----?include=assets/md/speakers/PITCHME.md
-
 ---
 # Agenda
 - Intro Reactive Programming (30 min)
@@ -16,6 +14,8 @@ by Christiaan Rudolfs & Sander Rombouts
 - Reactive JavaScript - Amsterdam (15 min)
 - Reactive Java - Den Bosch (15 min)
 - Workshop (60 min)
+
+---?include=assets/md/speakers/PITCHME.md
 
 ---?include=assets/md/reactive-intro/PITCHME.md
 
