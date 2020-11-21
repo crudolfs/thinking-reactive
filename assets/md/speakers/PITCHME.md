@@ -17,22 +17,3 @@
 @snap[south-west text-white]
 Christiaan Rudolfs
 @snapend
-
----?image=assets/img/bg/black.jpg&position=right&size=50% 100%
-@title[Sander Rombouts]
-
-@snap[east text-white span-45]
-@ul[split-screen-list text-08](false)
-- Front-end Developer
-- 12+ years of experience in front-end development
-- Experienced in Angular & React and much more...
-@ulend
-@snapend
-
-@snap[west]
-@img[split-screen-img span-35](assets/img/speaker_sander.jpeg)
-@snapend
-
-@snap[south-west text-white]
-Sander Rombouts
-@snapend
