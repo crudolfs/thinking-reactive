@@ -4,15 +4,14 @@
 @snap[south-west byline text-white text-06]
 Thinking Reactive
 </br>
-by Christiaan Rudolfs & Sander Rombouts
+by Christiaan Rudolfs
 @snapend
 
 ---
 # Agenda
 - Intro Reactive Programming (30 min)
 - Short break (15 min)
-- Reactive JavaScript - Amsterdam (15 min)
-- Reactive Java - Den Bosch (15 min)
+- Reactive Java - Den Bosch (30 min)
 - Workshop (60 min)
 
 ---?include=assets/md/speakers/PITCHME.md
